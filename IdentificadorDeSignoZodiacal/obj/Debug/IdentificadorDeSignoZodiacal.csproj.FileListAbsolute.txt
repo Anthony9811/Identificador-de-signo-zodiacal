@@ -1,0 +1,10 @@
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\bin\Debug\IdentificadorDeSignoZodiacal.exe.config
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\bin\Debug\IdentificadorDeSignoZodiacal.exe
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\bin\Debug\IdentificadorDeSignoZodiacal.pdb
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\obj\Debug\IdentificadorDeSignoZodiacal.csprojAssemblyReference.cache
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\obj\Debug\IdentificadorDeSignoZodiacal.Form1.resources
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\obj\Debug\IdentificadorDeSignoZodiacal.Properties.Resources.resources
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\obj\Debug\IdentificadorDeSignoZodiacal.csproj.GenerateResource.cache
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\obj\Debug\IdentificadorDeSignoZodiacal.csproj.CoreCompileInputs.cache
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\obj\Debug\IdentificadorDeSignoZodiacal.exe
+C:\Users\metal\source\repos\IdentificadorDeSignoZodiacal\obj\Debug\IdentificadorDeSignoZodiacal.pdb
